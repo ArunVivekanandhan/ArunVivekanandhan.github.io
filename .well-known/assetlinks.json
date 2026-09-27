@@ -1,12 +1,25 @@
 [
   {
-    "relation": ["delegate_permission/common.handle_all_urls"],
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.arunvivekanandhan.twa",
+      "sha256_cert_fingerprints": [
+        "AD:B3:9A:71:18:EF:A9:4D:02:1F:C7:4E:C2:C5:3F:D7:8F:C5:8D:05:43:BA:60:FB:3D:04:3A:B3:6A:3D:29:71"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
     "target": {
       "namespace": "android_app",
       "package_name": "io.github.arunvivekanandhan.deutschcoach",
       "sha256_cert_fingerprints": [
-        "REPLACE_WITH_UPLOAD_KEY_SHA256_FROM_PWABUILDER",
-        "REPLACE_WITH_APP_SIGNING_KEY_SHA256_FROM_PLAY_CONSOLE"
+        "AD:B3:9A:71:18:EF:A9:4D:02:1F:C7:4E:C2:C5:3F:D7:8F:C5:8D:05:43:BA:60:FB:3D:04:3A:B3:6A:3D:29:71"
       ]
     }
   }
