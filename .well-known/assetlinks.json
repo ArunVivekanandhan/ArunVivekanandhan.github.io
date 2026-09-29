@@ -5,20 +5,10 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "io.github.arunvivekanandhan.twa",
-      "sha256_cert_fingerprints": [
-        "AD:B3:9A:71:18:EF:A9:4D:02:1F:C7:4E:C2:C5:3F:D7:8F:C5:8D:05:43:BA:60:FB:3D:04:3A:B3:6A:3D:29:71"
-      ]
-    }
-  },
-  {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
-    "target": {
-      "namespace": "android_app",
       "package_name": "io.github.arunvivekanandhan.deutschcoach",
       "sha256_cert_fingerprints": [
+        "5E:13:AA:6A:53:D5:15:7E:58:97:67:76:4F:50:81:9F:85:E4:91:B8:03:1F:81:92:B1:B2:BF:5A:EA:F0:9E:57",
+        "13:7E:1F:35:69:29:85:A8:8B:6B:0E:FB:48:0E:A7:86:E1:8D:6D:62:F1:77:08:D8:F3:CA:AD:D8:85:C0:85:10",
         "AD:B3:9A:71:18:EF:A9:4D:02:1F:C7:4E:C2:C5:3F:D7:8F:C5:8D:05:43:BA:60:FB:3D:04:3A:B3:6A:3D:29:71"
       ]
     }
